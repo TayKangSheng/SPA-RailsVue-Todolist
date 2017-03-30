@@ -1,9 +1,12 @@
 # Single Page Rails Vue Application
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a simple Todo List Single Page Application built with Vue & Webpack on the front-end & Rails as Server and API.
 
-## Libraries
+## Prerequisites
+* [Ruby on Rails](http://guides.rubyonrails.org/getting_started.html)
+* [Yarn Package Manager](https://yarnpkg.com/lang/en/docs/install/)
+
+## Built with
 * Rails
 * Vue
 * Rails Webpacker
